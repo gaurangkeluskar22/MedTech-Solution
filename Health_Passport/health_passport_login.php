@@ -52,7 +52,7 @@
 
 </head>
 <body>
-<!-- this is a navbar for before login -->
+<!-- this is a navbar for before login page -->
 <?php include('../widgets/outer_navbar.php');?>
 
 <section class="home">
